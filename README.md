@@ -1,16 +1,5 @@
-# Qr-Code Scanner
-
-A new Flutter project using Qr-Code scanner and generator, as well as, object-box as database.
+# Anti Covid
+A flutter application for detecting the near by connections and store them in a Object-Box database; if one of the user of tis application is declared positive. Thr application shoud notify the list of contacts of this user.
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To Use the application; install the dependencies using the command: flutter pub get
